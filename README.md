@@ -1,5 +1,8 @@
 # Cifra de César
-De acordo com a Cifra de César, criptografa o texto que é inserido no prompt.
+
+## Motivo
+Este é o produto final do Sprint 1 do bootcamp Laboratoria.
+O desafio era criar uma forma de criptografar e descriptografar o texto que é inserido no prompt usando a Cifra de César e também descrever todo o processo que se encontra logo abaixo.
 
 ## Descrição
 1.  O programa inicia pedindo por meio de um **prompt()** que o usuário digite alguma palavra e os armazena em uma **variável text**.
